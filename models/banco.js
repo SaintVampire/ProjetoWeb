@@ -8,4 +8,3 @@ module.exports = {
     Sequelize: Sequelize,
     sequelize: sequelize
 }
-Recolher
